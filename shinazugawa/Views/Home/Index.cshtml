@@ -1,0 +1,33 @@
+﻿@model shinazugawa.Models.Login
+@{
+    ViewData["Title"] = "Cadastro de Clientes";
+}
+
+<div class="text-center">
+    <h3 class="display-4">Cadastro de Clientes</h3>
+    @using (Html.BeginForm("Lista", "Home", FormMethod.Post))
+    {
+        <fieldset>
+            <legend>Informação de pessoas</legend>
+            <div>
+                @Html.LabelFor(x => x.Usuario)
+            </div>
+            <div>
+                @Html.EditorFor(x => x.Usuario)
+            </div>
+            <div>
+                @Html.LabelFor(x => x.Password)
+            </div>
+            <div>
+                @Html.EditorFor(x => x.Password)
+            </div>
+            <div>
+                @Html.LabelFor(x => x.Email)
+            </div>
+            <div>
+                @Html.EditorFor(x => x.Email)
+            </div>
+            <p><p><input type="submit" value="Enviar" /></p></p>
+        </fieldset>
+    }
+</div>
