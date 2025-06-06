@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\2A-DS-PI\\Henrico roliço e Hiponose\\DS\\shinazugawa\\shinazugawa\\shinazugawa.csproj",
+      "projectUniqueName": "C:\\Users\\2ds\\Desktop\\shinazugawa\\shinazugawa\\shinazugawa.csproj",
       "projectName": "shinazugawa",
-      "projectPath": "F:\\2A-DS-PI\\Henrico roliço e Hiponose\\DS\\shinazugawa\\shinazugawa\\shinazugawa.csproj",
+      "projectPath": "C:\\Users\\2ds\\Desktop\\shinazugawa\\shinazugawa\\shinazugawa.csproj",
       "packagesPath": "C:\\Users\\2ds\\.nuget\\packages\\",
-      "outputPath": "F:\\2A-DS-PI\\Henrico roliço e Hiponose\\DS\\shinazugawa\\shinazugawa\\obj\\",
+      "outputPath": "C:\\Users\\2ds\\Desktop\\shinazugawa\\shinazugawa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\2ds\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,8 @@
+C:\Users\2ds\Desktop\shinazugawa\shinazugawa\obj\Debug\net8.0\shinazugawa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2ds\Desktop\shinazugawa\shinazugawa\obj\Debug\net8.0\shinazugawa.AssemblyInfoInputs.cache
+C:\Users\2ds\Desktop\shinazugawa\shinazugawa\obj\Debug\net8.0\shinazugawa.AssemblyInfo.cs
+C:\Users\2ds\Desktop\shinazugawa\shinazugawa\obj\Debug\net8.0\shinazugawa.csproj.CoreCompileInputs.cache
+C:\Users\2ds\Desktop\shinazugawa\shinazugawa\obj\Debug\net8.0\shinazugawa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2ds\Desktop\shinazugawa\shinazugawa\obj\Debug\net8.0\shinazugawa.RazorAssemblyInfo.cache
+C:\Users\2ds\Desktop\shinazugawa\shinazugawa\obj\Debug\net8.0\shinazugawa.RazorAssemblyInfo.cs
+C:\Users\2ds\Desktop\shinazugawa\shinazugawa\obj\Debug\net8.0\shinazugawa.sourcelink.json
