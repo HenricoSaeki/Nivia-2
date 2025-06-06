@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("shinazugawa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea0f290602d715776ab94764297ad955c27e8c9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1df3cf3eaefc3fe10d87e9c8c0617c280751499")]
 [assembly: System.Reflection.AssemblyProductAttribute("shinazugawa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("shinazugawa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
